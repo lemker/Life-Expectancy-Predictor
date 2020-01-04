@@ -1,0 +1,4 @@
+numpy
+flask
+sqlite3
+requests
